@@ -1,0 +1,11 @@
+/* .el-submenu__title, .el-menu-item {
+  font-size: 15px;
+}
+
+.el-submenu [class^=el-icon-], .el-menu-item [class^=el-icon-] {
+    font-size: 20px;
+} */
+
+.el-menu-item-group__title {
+    font-size: 13px;
+}
